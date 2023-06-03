@@ -1,0 +1,395 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 4,
+        "ok": 0,
+        "ko": 4
+    },
+    "minResponseTime": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "maxResponseTime": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "meanResponseTime": {
+        "total": 374,
+        "ok": 0,
+        "ko": 374
+    },
+    "standardDeviation": {
+        "total": 137,
+        "ok": 0,
+        "ko": 137
+    },
+    "percentiles1": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "percentiles2": {
+        "total": 375,
+        "ok": 0,
+        "ko": 375
+    },
+    "percentiles3": {
+        "total": 564,
+        "ok": 0,
+        "ko": 564
+    },
+    "percentiles4": {
+        "total": 602,
+        "ok": 0,
+        "ko": 602
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 4,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.0,
+        "ok": 0,
+        "ko": 2.0
+    }
+},
+"contents": {
+"req_addition-soap-a-7e9c5": {
+        "type": "REQUEST",
+        "name": "ADDITION-SOAP API",
+"path": "ADDITION-SOAP API",
+"pathFormatted": "req_addition-soap-a-7e9c5",
+"stats": {
+    "name": "ADDITION-SOAP API",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "maxResponseTime": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "meanResponseTime": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "percentiles2": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "percentiles3": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "percentiles4": {
+        "total": 611,
+        "ok": 0,
+        "ko": 611
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.5,
+        "ok": 0,
+        "ko": 0.5
+    }
+}
+    },"req_subtraction-soa-ddcb9": {
+        "type": "REQUEST",
+        "name": "SUBTRACTION-SOAP API",
+"path": "SUBTRACTION-SOAP API",
+"pathFormatted": "req_subtraction-soa-ddcb9",
+"stats": {
+    "name": "SUBTRACTION-SOAP API",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 295,
+        "ok": 0,
+        "ko": 295
+    },
+    "maxResponseTime": {
+        "total": 295,
+        "ok": 0,
+        "ko": 295
+    },
+    "meanResponseTime": {
+        "total": 295,
+        "ok": 0,
+        "ko": 295
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 295,
+        "ok": 0,
+        "ko": 295
+    },
+    "percentiles2": {
+        "total": 295,
+        "ok": 0,
+        "ko": 295
+    },
+    "percentiles3": {
+        "total": 295,
+        "ok": 0,
+        "ko": 295
+    },
+    "percentiles4": {
+        "total": 295,
+        "ok": 0,
+        "ko": 295
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.5,
+        "ok": 0,
+        "ko": 0.5
+    }
+}
+    },"req_multiplication--866f8": {
+        "type": "REQUEST",
+        "name": "MULTIPLICATION-SOAP API",
+"path": "MULTIPLICATION-SOAP API",
+"pathFormatted": "req_multiplication--866f8",
+"stats": {
+    "name": "MULTIPLICATION-SOAP API",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "maxResponseTime": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "meanResponseTime": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "percentiles2": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "percentiles3": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "percentiles4": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.5,
+        "ok": 0,
+        "ko": 0.5
+    }
+}
+    },"req_division-soap-a-d9aea": {
+        "type": "REQUEST",
+        "name": "DIVISION-SOAP API",
+"path": "DIVISION-SOAP API",
+"pathFormatted": "req_division-soap-a-d9aea",
+"stats": {
+    "name": "DIVISION-SOAP API",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "maxResponseTime": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "meanResponseTime": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "percentiles2": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "percentiles3": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "percentiles4": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.5,
+        "ok": 0,
+        "ko": 0.5
+    }
+}
+    }
+}
+
+}

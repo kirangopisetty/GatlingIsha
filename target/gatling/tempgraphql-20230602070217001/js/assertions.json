@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.tempGraphQL",
+  "simulationId": "tempgraphql",
+  "start": 1685689337001,
+  "description": "a",
+  "scenarios": ["GRAPH-QL-APIs"],
+  "assertions": [
+
+  ]
+}

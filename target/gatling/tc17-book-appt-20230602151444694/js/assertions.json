@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TC17_BOOK_APPT",
+  "simulationId": "tc17-book-appt",
+  "start": 1685718884694,
+  "description": "",
+  "scenarios": ["LOGIN --> BOOK AN APPOINTMENT --> LOGOUT"],
+  "assertions": [
+
+  ]
+}

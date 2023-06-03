@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TC14_SOAP_APIs",
+  "simulationId": "tc14-soap-apis",
+  "start": 1685595894766,
+  "description": "abcd",
+  "scenarios": ["SOAP APIs"],
+  "assertions": [
+
+  ]
+}

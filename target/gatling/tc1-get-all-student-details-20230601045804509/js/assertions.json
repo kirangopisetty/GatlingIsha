@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TC1_GET_ALL_STUDENT_DETAILS",
+  "simulationId": "tc1-get-all-student-details",
+  "start": 1685595484509,
+  "description": "",
+  "scenarios": ["This API is used to retrieve all existing student details from the database"],
+  "assertions": [
+
+  ]
+}

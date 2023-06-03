@@ -1,0 +1,4 @@
+RUN	simulations.TC1_GET_ALL_STUDENT_DETAILS	tc1-get-all-student-details	1685595484509	 	3.6.1
+USER	This API is used to retrieve all existing student details from the database	START	1685595486582
+REQUEST		GET ALL STUDENT DETAILS	1685595486645	1685595487341	OK	 
+USER	This API is used to retrieve all existing student details from the database	END	1685595487369
